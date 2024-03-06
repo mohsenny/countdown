@@ -47,11 +47,11 @@ def main():
     letters = ['_'] * 9  # Initialize with underscores for empty slots
     print("Letters so far: " + ' | '.join(letters), end='\r')
     sys.stdout.flush()
-
+    print("Hello and welcome to Countdown! \nA show about letters, numbers, and conundrum!")
     for i in range(9):
         # Clear the line and reprint instructions to avoid confusion
         sys.stdout.write("\033[K")  # ANSI escape sequence to clear the line
-        print("Hello and welcome to Countdown! \nA show about letters, numbers, and conundrum! \nChoose 'v' for a vowel, 'c' for a consonant: ", end='', flush=True)
+        print("Choose 'v' for a vowel, 'c' for a consonant: ", end='', flush=True)
         choice = sys.stdin.readline().strip().lower()  # Use readline to avoid line break
         if choice == 'v':
             letter = weighted_choice(VOWELS, VOWEL_WEIGHTS).upper()
