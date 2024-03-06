@@ -56,6 +56,11 @@ Playing Countdown is simple and engaging. The game consists of several rounds of
 4. **See Your Score**  
    After the time is up, the game will validate your word and reveal the longest possible word from the selected letters. Challenge yourself to see if you can match or beat the game!
 
+## Demo
+
+https://github.com/mohsenny/countdown/assets/1129811/c94efc1f-027a-42c1-aae4-83fd2baadd94
+
+
 ## Contributing
 
 Love Countdown? Great! Contributions are welcome. Feel free to fork the repository, make changes, and submit pull requests. Whether it's adding new features, fixing bugs, or improving documentation, your help is appreciated.
