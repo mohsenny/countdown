@@ -58,8 +58,7 @@ Playing Countdown is simple and engaging. The game consists of several rounds of
 
 ## Demo
 
-https://github.com/mohsenny/countdown/assets/1129811/c94efc1f-027a-42c1-aae4-83fd2baadd94
-
+https://github.com/mohsenny/countdown/assets/1129811/fec5e806-602f-4046-b95e-3333a2af7dae
 
 ## Contributing
 
